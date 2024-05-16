@@ -13,6 +13,8 @@ Par la suite mise en place des différents services :
 - SSH et WinRM (accessible uniquement aux administrateurs Windows et Linux)
 - Partage SMB (1 en "readonly" pour tous et un en lectur écrutire "rw" sur le serveur Windows)
 
+![alt tag](https://github.com/Slimnad/Mise_en_place_Lab_Test/blob/main/HASH_deb.png?raw=true)
+
 **Status DNS**
 
 url
