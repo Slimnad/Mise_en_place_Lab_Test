@@ -17,27 +17,33 @@ Par la suite mise en place des différents services :
 
 **Status DNS**
 
-![alt tag]
+![alt tag](https://github.com/Slimnad/Mise_en_place_Lab_Test/blob/main/StatuDNS.png?raw=true)
 
 **Connexion SSH (Debian)**
 
-![alt tag]
+![alt tag](https://github.com/Slimnad/Mise_en_place_Lab_Test/blob/main/SSH.png?raw=true)
 
 **Connexion WinRM (Windows)**
 
-![alt tag]
+![alt tag](https://github.com/Slimnad/Mise_en_place_Lab_Test/blob/main/WinRM.png?raw=true)
 
 **Paratage SMB**
 
-![alt tag]
+![alt tag](https://github.com/Slimnad/Mise_en_place_Lab_Test/blob/main/SMB1.png?raw=true)
+
+![alt tag](https://github.com/Slimnad/Mise_en_place_Lab_Test/blob/main/SMB2.png?raw=true)
 
 **Status Web**
 
-![alt tag]
+![alt tag](https://github.com/Slimnad/Mise_en_place_Lab_Test/blob/main/statuWEB.png?raw=true)
 
     Enfin lancement du script badblood ./invoke-badblood.ps1
 
 **Nombre d'utilisateurs AD après script**
 
-![alt tag]
+
+![alt tag](https://github.com/Slimnad/Mise_en_place_Lab_Test/blob/main/userAD2.png?raw=true)
+
+
+![alt tag](https://github.com/Slimnad/Mise_en_place_Lab_Test/blob/main/userAD1.png?raw=true)
 
