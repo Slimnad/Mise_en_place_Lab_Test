@@ -5,6 +5,7 @@
 Avec la commande "sha512sum" pour debian (linux).
 Avec la commande "Get-fileHash" pour windows (Powersell).
 
+![alt tag](https://github.com/Slimnad/Mise_en_place_Lab_Test/blob/main/HASH_deb.png?raw=true)
 
     Après installation et mise à jour des 3 machines virutelles (Srv win AD, win client et debian).
 Par la suite mise en place des différents services :
@@ -13,31 +14,30 @@ Par la suite mise en place des différents services :
 - SSH et WinRM (accessible uniquement aux administrateurs Windows et Linux)
 - Partage SMB (1 en "readonly" pour tous et un en lectur écrutire "rw" sur le serveur Windows)
 
-![alt tag](https://github.com/Slimnad/Mise_en_place_Lab_Test/blob/main/HASH_deb.png?raw=true)
 
 **Status DNS**
 
-url
+![alt tag]
 
 **Connexion SSH (Debian)**
 
-url
+![alt tag]
 
 **Connexion WinRM (Windows)**
 
-url
+![alt tag]
 
 **Paratage SMB**
 
-urls
+![alt tag]
 
 **Status Web**
 
-url
+![alt tag]
 
     Enfin lancement du script badblood ./invoke-badblood.ps1
 
 **Nombre d'utilisateurs AD après script**
 
-url
+![alt tag]
 
